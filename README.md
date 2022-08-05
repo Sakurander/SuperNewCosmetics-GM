@@ -1,6 +1,6 @@
 # SuperNewCosmetics-GM
 ## ハットの追加方法
-### 3.`CustomHats.json`にコードを追加する
+### `CustomHats.json`にコードを追加する
 ```
         {
             "name": "題名",
